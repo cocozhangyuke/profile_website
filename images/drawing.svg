@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="600px"
+   height="138.596px"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.2066796"
+     inkscape:cx="291.29522"
+     inkscape:cy="81.214599"
+     inkscape:window-width="1309"
+     inkscape:window-height="456"
+     inkscape:window-x="114"
+     inkscape:window-y="57"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="148.72119"
+       y="452.42551"
+       width="480.60425"
+       height="134.63181"
+       id="rect236" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text234"
+       style="font-size:13.3333px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;white-space:pre;shape-inside:url(#rect236);display:inline;opacity:0.79;fill:#db7093;stroke:#000000;stroke-width:1.00157" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:143.086px;font-family:Chalkboard;-inkscape-font-specification:Chalkboard;text-align:center;text-anchor:middle;opacity:0.79;fill:#f5f5f5;stroke:#000000;stroke-width:2.68709"
+       x="157.37367"
+       y="133.00938"
+       id="text242"
+       transform="scale(0.88972887,1.1239379)"><tspan
+         sodipodi:role="line"
+         id="tspan240"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:143.086px;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans Bold';fill:#f5f5f5;stroke:#c1c1c1;stroke-width:2.6871;stroke-opacity:1"
+         x="157.37367"
+         y="133.00938">Propfolio.co</tspan></text>
+  </g>
+</svg>
